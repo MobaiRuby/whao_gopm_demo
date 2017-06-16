@@ -1,0 +1,12 @@
+[target]
+path = zplay.com/whao/mygopm
+
+[deps]
+github.com/astaxie/beego = 
+golang.org/x/net =
+github.com/Unknwon/com =
+github.com/Unknwon/goconfig =
+github.com/aybabtme/color =
+github.com/codegangsta/cli =
+github.com/Unknwon/cae =
+github.com/sirupsen/logrus =
